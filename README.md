@@ -1,7 +1,6 @@
 ![Stars](https://img.shields.io/github/stars/ashish1993utd/Speech-Recognition-System-using-Multi-Layer-Perceptron.svg?style=social)
 ![Forks](https://img.shields.io/github/forks/ashish1993utd/Speech-Recognition-System-using-Multi-Layer-Perceptron.svg?style=social)
 ![Language](https://img.shields.io/github/languages/top/ashish1993utd/Speech-Recognition-System-using-Multi-Layer-Perceptron.svg)
-[![GitHub](https://img.shields.io/github/license/ashish1993utd/Speech-Recognition-System-using-Multi-Layer-Perceptron.svg)](https://choosealicense.com/licenses/mit)
 [![HitCount](http://hits.dwyl.io/ashish1993utd/Speech-Recognition-System-using-Multi-Layer-Perceptron.svg)](http://hits.dwyl.io/ashish1993utd/Speech-Recognition-System-using-Multi-Layer-Perceptron)
 
 # Speech-Recognition-System-using-Multi-Layer-Perceptron
